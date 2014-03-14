@@ -1,5 +1,5 @@
-class Osiris
-	def self.hi
-		puts "Hello, world!"
-	end
+require "osiris/version"
+
+module Osiris
+  # Your code goes here...
 end
