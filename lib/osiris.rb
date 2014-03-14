@@ -1,7 +1,9 @@
 require "osiris/version"
 
 module Osiris
-  def hi
-    puts "Hello, world!"
+  extend self
+  
+  def package_website(folder)
+  	return "TODO"
   end
 end
