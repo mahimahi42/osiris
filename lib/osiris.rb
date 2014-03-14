@@ -1,5 +1,7 @@
 require "osiris/version"
 
 module Osiris
-  # Your code goes here...
+  def hi
+    puts "Hello, world!"
+  end
 end

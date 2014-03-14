@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Osiris::VERSION
   spec.authors       = ["Bryce Davis"]
   spec.email         = ["bryce.davis.ctr@nwdc.hpc.mil"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = %q{Prepare websites for deployment}
+  spec.description   = %q{A gem for preparing websites for deployment/release}
+  spec.homepage      = "https://github.com/mahimahi42/osiris"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
