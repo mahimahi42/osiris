@@ -16,13 +16,16 @@ Or install it yourself as:
 
     $ gem install osiris
 
-## Usage
+## TODO
 
-TODO: Write usage instructions here
+* Minify CSS
+* Minify JS
+* Convert pages to use minified CSS and JS
+* Archive the folder
 
 ## Contributing
 
-1. Fork it ( http://github.com/<my-github-username>/osiris/fork )
+1. Fork it ( http://github.com/mahimahi42/osiris/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
